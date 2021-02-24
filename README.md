@@ -25,6 +25,7 @@
   <a href="https://www.facebook.com/murilofuza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="MuriloFuza"     height="20" width="20" /></a>
   <a href=" https://stackoverflow.com/users/13970974/murilo-fuza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MuriloFuza" height="20" width="20" /></a>
   <a href="https://www.linkedin.com/in/murilofuza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MuriloFuza" height="20" width="20" /></a>
+  </p>
 
 
 
