@@ -1,4 +1,4 @@
-## Olá pessoa visitando meu perfil!!! 👋
+<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Murilo Fuza.</h1>
 Sou um desenvolver web principiante focado em BACK-END:
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais
