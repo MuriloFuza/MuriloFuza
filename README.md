@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="javascript"/> 
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" alt="mmongoDB">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
 </p><p align="center"> 
 </p> 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"  width="400" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact"  width="420"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"  height="40" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact"  height="40""  />
  </p> 
   
   <p align="center">
