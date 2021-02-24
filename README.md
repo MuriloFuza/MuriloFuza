@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30px" color"#339933">
+   <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30px">
   Olá! 
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
   Eu sou Murilo Fuza.
