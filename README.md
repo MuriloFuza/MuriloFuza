@@ -11,9 +11,9 @@
 - 💬 Pergunte-me sobre MongoDB à nivel iniciante
 - 📫 Como chegar até mim: Linkedin: www.linkedin.com/in/murilofuza | Gmail: muriloacademix@gmail.com
 - Foco: <p align="left"> 
-  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="javascript" width="20" height="20"/> 
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="javascript"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> 
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="nodejs"/></p><p align="center"> 
 </p> 
 
 <p align="center">
