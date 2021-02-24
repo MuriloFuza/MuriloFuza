@@ -1,4 +1,12 @@
-<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Murilo Fuza.</h1>
+<h1 align="center">
+   <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30px">
+  Olá! 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+  Eu sou Murilo Fuza.
+   <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30px">
+</h1>
+
+
 
 <h3 align="center">Sou um jovem desenvolver iniciando no mundo web focado em BACK-END</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuriloFuza" alt="MuriloFuza" /> </p>
