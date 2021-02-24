@@ -1,4 +1,4 @@
-## Olá pessoal 👋
+## Olá pessoa visitando meu perfil!!! 👋
 Sou um desenvolver web principiante focado em BACK-END:
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais
