@@ -20,7 +20,7 @@
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza" layout=compact&theme=react" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"  height="190"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"  height="230"/> 
   
  </p> 
   
