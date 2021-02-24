@@ -10,11 +10,12 @@
 - 🤔 Estou procurando ajuda com TypeScript
 - 💬 Pergunte-me sobre MongoDB à nivel iniciante
 - 📫 Como chegar até mim: Linkedin: www.linkedin.com/in/murilofuza | Gmail: muriloacademix@gmail.com
-<p align="left">
+- Foco: <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p> 
+
 
 <p align="left">
   <a href="https://www.facebook.com/murilofuza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito"     height="20" width="20" /></a>
