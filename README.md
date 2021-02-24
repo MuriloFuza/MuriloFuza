@@ -18,9 +18,9 @@
 </p><p align="center"> 
 </p> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"  width="500" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact"  width="500"  />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"  width="400" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact"  width="400"  />
  </p> 
   
   <p align="center">
