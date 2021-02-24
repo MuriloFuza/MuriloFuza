@@ -16,13 +16,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> 
 </p> 
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"/> 
+ </p> 
   
+  <p align="center">
   <a href="https://www.facebook.com/murilofuza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito"     height="20" width="20" /></a>
   <a href=" https://stackoverflow.com/users/13970974/murilo-fuza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
   <a href="https://www.linkedin.com/in/murilofuza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
- </p>
+
 
 
