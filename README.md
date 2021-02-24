@@ -8,7 +8,7 @@
 - 🌱 Atualmente estou aprendendo TypeScript e TypeORM
 - 👯 Estou procurando colaborar em projetos Node
 - 🤔 Estou procurando ajuda com TypeScript
-- 💬 Pergunte-me sobre MongoDB à nivel iniciante
+- 💬 Pergunte-me sobre Node à nivel iniciante
 - 📫 Como chegar até mim: Linkedin: www.linkedin.com/in/murilofuza | Gmail: muriloacademix@gmail.com
 <p align="left"> 
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="javascript"/> 
