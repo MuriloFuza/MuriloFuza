@@ -19,8 +19,8 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true" alt="MuriloFuza"  width="60" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact"  width="60"  />
  </p> 
   
   <p align="center">
