@@ -1,7 +1,7 @@
 <h1 align="center">
    <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30px">
   Olá! 
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+  <img src="https://github.com/MuriloFuza/MuriloFuza/blob/main/hi.gif" width="30px">
   Eu sou Murilo Fuza.
    <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30px">
 </h1>
