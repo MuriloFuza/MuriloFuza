@@ -2,12 +2,13 @@
 <p align="center">
     <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" width="150px">
 </p>
-
 <h1 align="center">
   Olá! 
-  <img src="https://github.com/MuriloFuza/MuriloFuza/blob/main/hi.gif" width="30px">
+      <img src="https://github.com/MuriloFuza/MuriloFuza/blob/main/hi.gif" width="30px">
+  </br>
   Eu sou o KingSlime.
 </h1>
+
 
 <h3 align="center">Sou um jovem desenvolver iniciando no mundo web focado em BACK-END</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuriloFuza" alt="MuriloFuza" /> </p>
