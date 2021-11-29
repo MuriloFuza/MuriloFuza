@@ -6,7 +6,7 @@
   Olá! 
       <img src="https://github.com/MuriloFuza/MuriloFuza/blob/main/hi.gif" width="30px">
   </br>
-  Eu sou o KingSlime.
+  Eu me chamo Murilo.
 </h1>
 
 
