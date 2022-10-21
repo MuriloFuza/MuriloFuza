@@ -29,5 +29,4 @@
 
 <p style="display:flex;" >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact&theme=react" /> 
- <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true&layout=compact&theme=react" alt="MuriloFuza" /> 
 </p> 
