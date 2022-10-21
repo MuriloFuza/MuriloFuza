@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" alt="mmongoDB">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff" alt="postgresql"/> 
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="react"/> 
 </p> 
 
 <p style="display:flex;" >
