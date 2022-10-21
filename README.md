@@ -10,15 +10,14 @@
 </h1>
 
 
-<h3 align="center">Sou um jovem desenvolver iniciando no mundo web focado em BACK-END</h3>
+<h3 align="center">Sou um jovem desenvolvedor WEB focado em BACK-END</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuriloFuza" alt="MuriloFuza" /> </p>
 
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais
-- 🌱 Atualmente estou aprendendo TypeScript e TypeORM
+- 🔭 Atualmente estou trabalhando em projetos pessoais e privados da Universidade
+- 🌱 Atualmente estou aprendendo TypeScript, Docker e React
 - 👯 Estou procurando colaborar em projetos Node
-- 🤔 Estou procurando ajuda com TypeScript
-- 💬 Pergunte-me sobre Node à nivel iniciante
+- 💬 Pergunte-me sobre Node à nivel intermediário
 - 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/murilofuza) | [Gmail](mailto:muriloacademix@gmail.com)
 
 <p align="left"> 
@@ -28,7 +27,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff" alt="postgresql"/> 
 </p> 
 
-<p align="left">
+<p align="right">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact&theme=react" /> 
  <img src="https://github-readme-stats.vercel.app/api?username=MuriloFuza&show_icons=true&layout=compact&theme=react" alt="MuriloFuza" /> 
 </p> 
