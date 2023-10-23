@@ -10,13 +10,13 @@
 </h1>
 
 
-<h3 align="center">Sou um jovem desenvolvedor WEB focado em BACK-END</h3>
+<h3 align="center">Sou um Ciêntista da Computação e desenvolvedor WEB focado em BACK-END</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuriloFuza" alt="MuriloFuza" /> </p>
 
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e privados da Universidade
-- 🌱 Atualmente estou aprendendo TypeScript, Docker e React
-- 👯 Estou procurando colaborar em projetos Node
+- 🔭 Atualmente estou trabalhando em projetos pessoais e de empresas particulates
+- 🌱 Atualmente estou aprendendo React, NextJs e Nest
+- 👯 Estou procurando colaborar em projetos Node e Next
 - 💬 Pergunte-me sobre Node à nivel intermediário
 - 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/murilofuza) | [Gmail](mailto:muriloacademix@gmail.com)
 
