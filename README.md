@@ -1,7 +1,3 @@
-
-<p align="center">
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" width="150px">
-</p>
 <h1 align="center">
   Olá! 
       <img src="https://github.com/MuriloFuza/MuriloFuza/blob/main/hi.gif" width="30px">
