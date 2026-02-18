@@ -11,7 +11,7 @@
 
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais e de empresas particulates
-- 🌱 Atualmente estou aprendendo React, NextJs e Nest
+- 🌱 Atuo React, NextJs e Nest
 - 👯 Estou procurando colaborar em projetos Node e Next
 - 💬 Pergunte-me sobre Node à nivel intermediário
 - 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/murilofuza) | [Gmail](mailto:muriloacademix@gmail.com)
